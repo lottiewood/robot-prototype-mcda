@@ -1,0 +1,8 @@
+Robot_Prototype,Alpha,Bravo,Charlie,Delta,Echo,Foxtrot,Gamma
+Carrying Capacity,35,50,50,40,55,70,55
+Battery Size,11,6,9,12,10,9,10
+Speed,15,15,15,25,15,15,18
+Mobility,5,4,3,4,2,1,3
+Aesthetic,10,6,6,3,6,7,9
+Cost Per Unit,10000,4500,6250,8000,5500,7500,5000
+Reliability,15,24,24,33,30,30,35
